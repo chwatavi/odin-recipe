@@ -1,1 +1,1 @@
-# odin-recipe
+This is created as a simple exercise from The Odin Project to practice basic HTML by creating a webpage with links to a few recipes.
